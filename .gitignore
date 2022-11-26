@@ -23,3 +23,12 @@ cover.out
 examples/sfu-ws/cert.pem
 examples/sfu-ws/key.pem
 wasm_exec.js
+
+### VS Code IDE ###
+#####################
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
